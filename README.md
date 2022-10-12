@@ -1,3 +1,3 @@
-# simple shopping cart
+# shopping cart
 
 ## lessons

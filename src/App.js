@@ -1,13 +1,15 @@
 import Header from "./components/Header";
 import Basket from "./components/Basket";
 import Main from "./components/Main";
+import Data from "./Data";
 
 function App() {
+  const { products } = Data;
   return (
     <div>
       <Header />
       <div className="row">
-        <Main />
+        <Main products={products} />
         <Basket />
       </div>
     </div>
