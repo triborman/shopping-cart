@@ -12,6 +12,28 @@ body {
 a {
   text-decoration: none;
 }
+img.small {
+  max-height: 8rem;
+  width: 100%;
+}
+button {
+  padding: 0.3rem;
+  border: 0.1rem;
+  background-color: rgb(228, 97, 97);
+  width: 100%;
+  cursor: pointer;
+}
+button.badge {
+  background-color: brown;
+  border: none;
+  color: antiquewhite;
+  width: 1.5rem;
+}
+.card {
+  background-color: white;
+  padding: 1rem;
+  margin: 0.5rem;
+}
 
 .row {
   display: flex;
@@ -37,7 +59,7 @@ a {
 }
 
 .block {
-  background-color: rgb(18, 192, 215);
+  background-color: rgb(227, 243, 246);
   padding: 1rem;
   margin: 0.5rem;
 }
