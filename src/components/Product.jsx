@@ -1,5 +1,5 @@
 export default function Product(props) {
-  const { product, onAdd, onRemove } = props;
+  const { product, item, onAdd, onRemove } = props;
   return (
     <div className="card">
       <img className="small" src={product.image} alt={product.name} />

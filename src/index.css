@@ -23,6 +23,17 @@ button {
   width: 100%;
   cursor: pointer;
 }
+button.add {
+  background-color: blueviolet;
+  width: 1.5rem;
+}
+button.remove {
+  background-color: blueviolet;
+  width: 1.5rem;
+}
+.p-1 {
+  padding: 1rem;
+}
 button.badge {
   background-color: brown;
   border: none;
@@ -62,4 +73,8 @@ button.badge {
   background-color: rgb(227, 243, 246);
   padding: 1rem;
   margin: 0.5rem;
+}
+
+.text-right {
+  text-align: right;
 }
