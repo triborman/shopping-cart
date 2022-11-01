@@ -1,3 +1,6 @@
+# Deployed
+https://tri-shopping-cart.netlify.app/
+
 # shopping cart
 
 1. create react app
