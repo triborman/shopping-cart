@@ -2,6 +2,12 @@
 https://tri-shopping-cart.netlify.app/
 
 # shopping cart
+My journey is still finding & trying different ways of learning. This is my very first time following Youtube tutorial. The catch was "React for Absolute Beginner". He also teach how to deploy.
+https://www.youtube.com/watch?v=KK0B8AETwew
+I followed along the instructions and i had hundreds of tabs open from W3 school material at the same time.
+Did i copy paste? No! Did i learn a lot with this kind of learning style? Yes.
+
+
 
 1. create react app
 
