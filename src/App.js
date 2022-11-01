@@ -60,7 +60,7 @@ function App() {
         <Basket cartItems={cartItems} onAdd={onAdd} onRemove={onRemove} />
       </div>
     </div>
-  );
+  ));
   }
-
+  
 export default App;
